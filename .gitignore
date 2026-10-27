@@ -1,0 +1,9 @@
+*.o
+*.a
+/gnl_example
+*.out
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
